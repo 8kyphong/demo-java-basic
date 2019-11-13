@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+D:\Tu Duy Lap Trinh\Nen Tang\Demo - OOP\.metadata\.plugins\org.eclipse.jdt.core
